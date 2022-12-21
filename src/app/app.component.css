@@ -1,0 +1,32 @@
+.ra{
+
+   
+    background-color:red;
+    display:flex;
+
+    flex-direction: row;
+
+    justify-content: space-around;
+
+   
+
+    height: 150px;
+   
+
+}
+.ra button{
+
+    margin-top: 50px;
+
+    padding: 20px;
+
+    height: 60px;
+
+    width: 100px;
+
+    color:white;
+
+    background-color:green;
+    border-radius: 5px;
+
+}
